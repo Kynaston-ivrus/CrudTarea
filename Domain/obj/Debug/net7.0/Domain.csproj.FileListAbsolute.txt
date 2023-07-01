@@ -10,3 +10,15 @@ C:\Users\Porfirio\Desktop\crud\Domain\obj\Debug\net7.0\Domain.dll
 C:\Users\Porfirio\Desktop\crud\Domain\obj\Debug\net7.0\refint\Domain.dll
 C:\Users\Porfirio\Desktop\crud\Domain\obj\Debug\net7.0\Domain.pdb
 C:\Users\Porfirio\Desktop\crud\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\CrudTarea\CrudTarea\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\CrudTarea\CrudTarea\Domain\bin\Debug\net7.0\Domain.dll
+D:\CrudTarea\CrudTarea\Domain\bin\Debug\net7.0\Domain.pdb
+D:\CrudTarea\CrudTarea\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\CrudTarea\CrudTarea\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CrudTarea\CrudTarea\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\CrudTarea\CrudTarea\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\CrudTarea\CrudTarea\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\CrudTarea\CrudTarea\Domain\obj\Debug\net7.0\Domain.dll
+D:\CrudTarea\CrudTarea\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\CrudTarea\CrudTarea\Domain\obj\Debug\net7.0\Domain.pdb
+D:\CrudTarea\CrudTarea\Domain\obj\Debug\net7.0\ref\Domain.dll
