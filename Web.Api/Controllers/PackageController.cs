@@ -37,4 +37,15 @@ public class Packages : ApiController
             errors => Problem(errors)
         );
     }
+    
+    [HttpGet("{id}")]
+    public async Task<IActionResult> GetById(Guid id)
+    {
+        var packageResult = await _mediator.Send(new GetPackageByIdQuery(id));
+
+        return packageResult.Match(
+            package => Ok(package),
+            errors => Problem(errors)
+        );
+    }
 }
