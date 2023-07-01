@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ujRN9i1SQU7Efa8smR4Gq/q+tREsWvZPirngF0qdbHr6lwmWe+s+dlbQi/rF5muIM+7S2AyO5lfVg2FC5PjGRQ==",
+  "dgSpecHash": "6THff/hgg3MJlmUREmfWGri4tgd5AW4WsNQt47Eq6FYr41tNbgI2n8Q2A0UAFb7cmUrSDnBMIpv+hEzaQ0AU5Q==",
   "success": true,
-  "projectFilePath": "D:\\CrudTarea\\CrudTarea\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\FINAL\\CrudTarea\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esaue\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\esaue\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

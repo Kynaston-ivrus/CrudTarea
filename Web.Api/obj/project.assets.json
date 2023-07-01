@@ -4143,11 +4143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CrudTarea\\CrudTarea\\Web.Api\\Web.Api.csproj",
+      "projectUniqueName": "C:\\FINAL\\CrudTarea\\Web.Api\\Web.Api.csproj",
       "projectName": "Web.Api",
-      "projectPath": "D:\\CrudTarea\\CrudTarea\\Web.Api\\Web.Api.csproj",
+      "projectPath": "C:\\FINAL\\CrudTarea\\Web.Api\\Web.Api.csproj",
       "packagesPath": "C:\\Users\\esaue\\.nuget\\packages\\",
-      "outputPath": "D:\\CrudTarea\\CrudTarea\\Web.Api\\obj\\",
+      "outputPath": "C:\\FINAL\\CrudTarea\\Web.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4168,11 +4168,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\CrudTarea\\CrudTarea\\Application\\Application.csproj": {
-              "projectPath": "D:\\CrudTarea\\CrudTarea\\Application\\Application.csproj"
+            "C:\\FINAL\\CrudTarea\\Application\\Application.csproj": {
+              "projectPath": "C:\\FINAL\\CrudTarea\\Application\\Application.csproj"
             },
-            "D:\\CrudTarea\\CrudTarea\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\CrudTarea\\CrudTarea\\Infrastructure\\Infrastructure.csproj"
+            "C:\\FINAL\\CrudTarea\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\FINAL\\CrudTarea\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

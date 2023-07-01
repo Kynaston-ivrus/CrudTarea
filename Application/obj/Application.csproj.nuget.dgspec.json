@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CrudTarea\\CrudTarea\\Application\\Application.csproj": {}
+    "C:\\FINAL\\CrudTarea\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\CrudTarea\\CrudTarea\\Application\\Application.csproj": {
+    "C:\\FINAL\\CrudTarea\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CrudTarea\\CrudTarea\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\FINAL\\CrudTarea\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\CrudTarea\\CrudTarea\\Application\\Application.csproj",
+        "projectPath": "C:\\FINAL\\CrudTarea\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\esaue\\.nuget\\packages\\",
-        "outputPath": "D:\\CrudTarea\\CrudTarea\\Application\\obj\\",
+        "outputPath": "C:\\FINAL\\CrudTarea\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\CrudTarea\\CrudTarea\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\CrudTarea\\CrudTarea\\Domain\\Domain.csproj"
+              "C:\\FINAL\\CrudTarea\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\FINAL\\CrudTarea\\Domain\\Domain.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "D:\\CrudTarea\\CrudTarea\\Domain\\Domain.csproj": {
+    "C:\\FINAL\\CrudTarea\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CrudTarea\\CrudTarea\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\FINAL\\CrudTarea\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\CrudTarea\\CrudTarea\\Domain\\Domain.csproj",
+        "projectPath": "C:\\FINAL\\CrudTarea\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\esaue\\.nuget\\packages\\",
-        "outputPath": "D:\\CrudTarea\\CrudTarea\\Domain\\obj\\",
+        "outputPath": "C:\\FINAL\\CrudTarea\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

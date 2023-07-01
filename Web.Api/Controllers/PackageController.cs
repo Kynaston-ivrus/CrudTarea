@@ -1,5 +1,6 @@
 using Application.Packages.Create;
 using Application.Packages.GetAll;
+using Application.Packages.GetById;
 using ErrorOr;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;

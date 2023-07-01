@@ -2,10 +2,11 @@ using Domain.Reservations;
 using Domain.Primitives;
 using ErrorOr;
 using MediatR;
+using Application.Packages.Delete;
 
 namespace Application.Reservations.Delete;
 
-internal sealed class DeleteReservationCommandHandler : IRequestHandler<DeleteReservationCommand, ErrorOr<Unit>>
+internal sealed class DeleteReservationCommandHandler : IRequestHandler<DeletePackageCommand, ErrorOr<Unit>>
 {
     private readonly IReservationRepository _reservationRepository;
     private readonly IUnitOfWork _unitOfWork;
@@ -14,7 +15,7 @@ internal sealed class DeleteReservationCommandHandler : IRequestHandler<DeleteRe
         _reservationRepository = reservationRepository ?? throw new ArgumentNullException(nameof(reservationRepository));
         _unitOfWork = unitOfWork ?? throw new ArgumentNullException(nameof(unitOfWork));
     }
-    public async Task<ErrorOr<Unit>> Handle(DeleteReservationCommand command, CancellationToken cancellationToken)
+    public async Task<ErrorOr<Unit>> Handle(DeletePackageCommand command, CancellationToken cancellationToken)
     {
         if (await _reservationRepository.GetByIdAsync(new ReservationId(command.Id)) is not Reservation reservation)
         {
